@@ -16,6 +16,6 @@
 - [Mobile-Testing-Android](https://github.com/tuusuario/Mobile-Testing-Android): Casos de prueba para app móvil Android con Appium.
 
 ## 📄 CV
-[Descargar CV](enlace-al-pdf)
+[Descargar CV](CV.pdf)
 
 
