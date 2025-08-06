@@ -20,9 +20,9 @@
 - Scrum Fundamentals Certified (SFC)(https://www.scrumstudy.com/certification/verify?type=SFC&number=624148).
 
 ## 📚 Cursos
-Introducción a Bases de Datos y SQL (docs/cursos/Certificado-Introducción-a-Bases-de-Datos-y-SQL-EducaciónIT.pdf)
-Introducción a Python (docs/cursos/Certificado-Introducción-a-Python-EducaciónIT.pdf)
-Inteligencia Artificial y Productividad (docs/cursos/Certificado-Inteligencia-Artificial-y-productividad-EducaciónIT.pdf)
+- Introducción a Bases de Datos y SQL[🔗](docs/cursos/Certificado-Introducción-a-Bases-de-Datos-y-SQL-EducaciónIT.pdf).
+- Introducción a Python[🔗](docs/cursos/Certificado-Introducción-a-Python-EducaciónIT.pdf).
+- Inteligencia Artificial y Productividad[🔗](docs/cursos/Certificado-Inteligencia-Artificial-y-productividad-EducaciónIT.pdf).
 
 
 ## 📄 CV
