@@ -16,13 +16,13 @@
 - [Mobile-Testing-Android](https://github.com/tuusuario/Mobile-Testing-Android): Casos de prueba para app móvil Android con Appium.
 
 ## 🎓 Certificaciones
-- Six Sigma Yellow Belt (SSYB) [🔗](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=636170)
-- Scrum Fundamentals Certified (SFC) [🔗](https://www.scrumstudy.com/certification/verify?type=SFC&number=624148)
+- [Six Sigma Yellow Belt (SSYB)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=636170)
+- [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=624148)
 
 ## 📚 Cursos
-- Introducción a Bases de Datos y SQL [🔗](docs/cursos/Certificado-Introducción-a-Bases-de-Datos-y-SQL-EducaciónIT.pdf)
-- Introducción a Python [🔗](docs/cursos/Certificado-Introducción-a-Python-EducaciónIT.pdf)
-- Inteligencia Artificial y Productividad [🔗](docs/cursos/Certificado-Inteligencia-Artificial-y-productividad-EducaciónIT.pdf)
+- [Introducción a Bases de Datos y SQL](docs/cursos/Certificado-Introducción-a-Bases-de-Datos-y-SQL-EducaciónIT.pdf)
+- [Introducción a Python](docs/cursos/Certificado-Introducción-a-Python-EducaciónIT.pdf)
+- [Inteligencia Artificial y Productividad](docs/cursos/Certificado-Inteligencia-Artificial-y-productividad-EducaciónIT.pdf)
 
 
 ## 📄 CV
