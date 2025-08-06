@@ -16,9 +16,9 @@
 - [Mobile-Testing-Android](https://github.com/tuusuario/Mobile-Testing-Android): Casos de prueba para app móvil Android con Appium.
 
 ## 🎓 Certificaciones
-- [Certificado en Desarrollo Web - freeCodeCamp](https://www.freecodecamp.org/certification/tuusuario/responsive-web-design)
-- [Curso de Python - Coursera](https://coursera.org/verify/tu-certificado)
-- [Certificación en Git y GitHub - Platzi](https://platzi.com/p/tuusuario/)
+- Six Sigma Yellow Belt (SSYB)(https://www.6sigmastudy.com/certification/verify?type=SSYB&number=636170).
+- Scrum Fundamentals Certified (SFC)(https://www.scrumstudy.com/certification/verify?type=SFC&number=624148).
+
 
 ## 📄 CV
 [Descargar CV](CV.pdf)
