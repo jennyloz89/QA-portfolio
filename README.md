@@ -5,10 +5,10 @@
 📫 Contacto: jennyloz89@gmail.com | [LinkedIn]([https://www.linkedin.com/in/jenniferlozanop/))
 
 ## 🛠️ Tecnologías
-- Selenium, Cypress, Postman, RestAssured
 - Jira, TestRail, Sentry
 - Git, Jenkins, CI/CD
-- Android/iOS Testing, API Testing, Web Testing
+•	Languages: JavaScript, TypeScript, SQL, Python
+•	Automation Tools: Appium, Cypress, WebdriverIO, Selenium, Postman, JMeter  
 
 ## 📂 Proyectos Destacados
 - [QA-Automation-WebApp](https://github.com/tuusuario/QA-Automation-WebApp): Pruebas automatizadas con Cypress para una aplicación de e-commerce.
